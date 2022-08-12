@@ -1,10 +1,10 @@
 <style>
-p {
-  color: floralwhite;
-}
 body{
   background-color: black;
   color: floralwhite;
+  font-family: sans-serif;
 }
-
+#nome{
+    font-family: fantasy;
+}
 </style>
