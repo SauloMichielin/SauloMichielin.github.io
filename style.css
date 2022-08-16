@@ -7,28 +7,29 @@ body{
     color: chartreuse;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.2em;
-    width: 650px;
+}
+/* #nome{
+    border: 2px solid blue;
+}
+div{
+    border: 2px solid greenyellow;
+} */
+
+#conteudo{
+    display: inline-block;
 }
 
-/*p{
-    font-family: monospace;
-}*/
-
-#nome{
-    font-family: monospace;
-    font-size: 50px;
+.conteudoFoto{
+    vertical-align: middle;
+    display: inline-block;
 }
 
-#localização{
-    font-size: 1.2em;
-    font-weight: bold;
+.conteudoTexto{
+    width: 600px;
+    vertical-align: middle;
+    display: inline-block;
 }
 
 .lista{
     color: aquamarine;
-}
-
-.links{
-    background-color: chartreuse;
-    padding;
 }
